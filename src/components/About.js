@@ -23,7 +23,7 @@ export default function About() {
 
           <ul className="mt-6 space-y-3">
             <Highlight>
-              BSc Computer Science & MSc AI graduate with a passion for software, AI/ML, and data.
+              MSc AI graduate & BSc Computer Science graduate with a passion for software, AI/ML, and data.
             </Highlight>
             <Highlight>
               Projects in Web Development, AI and Data.
